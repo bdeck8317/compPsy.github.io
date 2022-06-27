@@ -11,10 +11,12 @@ While this course is not meant to be an all encompassing tour de force of progra
 For Python programming there are a number of great resources. 
 * Youtube, specifically [Corey Schafer's videos](https://www.youtube.com/c/Coreyms/featured) ---Mostare beyond the scope of this class. However, as you get more advanced and more interested in programming they will be helpful.
 
-* This one may seem obvious, but [python's documentation](https://docs.python.org/3/). You can access this also by wrapping some of your commands in a help function-- i.e., ``` In [1]: help(print())
+* This one may seem obvious, but [python's documentation](https://docs.python.org/3/). You can access this also by wrapping some of your commands in a help function
+ e.g.
+``` In [1]: help(print())
 
 Help on NoneType object:
-```
+
 class NoneType(object)
  |  Methods defined here:
  |
@@ -30,6 +32,8 @@ class NoneType(object)
  |  __new__(*args, **kwargs) from builtins.type
  |      Create and return a new object.  See help(type) for accurate signature.
  ```
+
+
 
 * Finally if you're interested in statistical methods/ data science in python, this book is often widely used in courses [Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 
