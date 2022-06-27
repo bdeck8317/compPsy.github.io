@@ -1,6 +1,6 @@
 ## Welcome to Computational Methods in Psychology
 
-All of the course content neccessary to complete this course can be found here or within your universities blackboard site.
+All of the course content neccessary to complete this course can be found here or within your university's blackboard site.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
