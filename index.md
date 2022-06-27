@@ -1,19 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Computational Methods in Psychology
 
-You can use the [editor on GitHub](https://github.com/bdeck8317/compPsy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+All of the course content neccessary to complete this course can be found here or within your universities blackboard site.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The goal of this course is to help incoming graduate students in psychology departments become acclimated to computer programming. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
