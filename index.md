@@ -1,4 +1,4 @@
-## Welcome to Computational Methods in Psychology
+# Welcome to Computational Methods in Psychology
 
 All of the course content neccessary to complete this course can be found here or within your universities blackboard site.
 
@@ -7,6 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 The goal of this course is to help incoming graduate students in psychology departments become acclimated to computer programming. 
 
+
+### Check out course resources for helpful guides
+[Resources](resources.md)
 
 
 - Bulleted
