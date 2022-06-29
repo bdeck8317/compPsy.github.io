@@ -8,6 +8,7 @@ While this course is not meant to be an all encompassing tour de force of progra
 2. Teaches you how to search for answers. You aren't always going to have the answers, that's totally fine and you should expect this. In many cases, it's not knowing the answer, but instead, it's knowing you can find it with ease. This tends to take a bit of time before you are actually good at it (that may sound weird).
 
 
+## Python
 For Python programming there are a number of great resources. 
 * Youtube, specifically [Corey Schafer's videos](https://www.youtube.com/c/Coreyms/featured) ---Mostare beyond the scope of this class. However, as you get more advanced and more interested in programming they will be helpful.
 
@@ -40,3 +41,7 @@ class NoneType(object)
 * Finally if you're interested in statistical methods/ data science in python, this book is often widely used in courses [Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 
 
+
+## R
+R is another language which has many resources. Many of the statistical functions were actually written by statisticians so their documentation is typically very detailed. 
+* Basic programming documentation can be found using R's [CRAN project website](https://cran.r-project.org/other-docs.html)
