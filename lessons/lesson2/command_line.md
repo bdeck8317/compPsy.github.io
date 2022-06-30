@@ -2,7 +2,7 @@
 
 The command line is an interface that allows you to directly interact with your computer without regard to the graphical user interface or GUI. The GUI is what you see as soon as you open your computer such as the image of your desktop. See below for example
 
-<img src=" gui_screenshot.png" class="inline"/>
+<img src="lessons/lesson2/gui_screenshot.png" class="inline"/>
 
 * The command line allows you to bypass the use of the point-and-click operations you would normally use to interact with your computer.
 * The basic computer language you use to interact with your computer via a linux terminal is called "BASH", which stands for Bourne-Again SHell (this is certainly not important!). 
