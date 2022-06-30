@@ -11,11 +11,11 @@ While we won't use BASH and the command line to much throughout this course, hav
 
 ### Software installation and environment configuration
 Installing the software for the remainder of the course should not be challenging. We provide guides to installing R/ R-Studio, Python/ Jupyter Lab, and Matlab
-* [R and R-Studio installation](lessons/lesson2/r_install.md)
+* [R and R-Studio introduction](lessons/lesson2/r_intro.md)
 
-* [Python and Jupyter Lab installation](lessons/lesson2/python_install.md)
+* [Python and Jupyter Lab introduction](lessons/lesson2/python_intro.md)
 
-* [Matlab installation](lessons/lesson2/matlab_install.md)
+* [Matlab introduction](lessons/lesson2/matlab_intro.md)
 
 
 
