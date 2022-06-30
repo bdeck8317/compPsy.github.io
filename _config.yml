@@ -2,3 +2,5 @@ theme: jekyll-theme-time-machine
 
 title: [Computational Methods]
 description: [An open-source course to introduce computational methods for Graduate students]
+
+show_downloads: true
