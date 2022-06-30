@@ -16,3 +16,8 @@ Installing the software for the remainder of the course should not be challengin
 * [Python and Jupyter Lab installation](lessons/lesson2/python_install.md)
 
 * [Matlab installation](lessons/lesson2/matlab_install.md)
+
+
+
+
+### [Home](https://bdeck8317.github.io/compPsy.github.io/)

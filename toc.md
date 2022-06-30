@@ -18,3 +18,6 @@
 * Lesson 8. [Organizing your code with Git and Github](lessons/lesson8/lesson8.md)
 
 * Lesson 9. [Advanced Topics and Computations](lessons/lesson9/lesson9.md)
+
+
+### [Home](https://bdeck8317.github.io/compPsy.github.io/)

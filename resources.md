@@ -45,3 +45,7 @@ class NoneType(object)
 ## R
 R is another language which has many resources. Many of the statistical functions were actually written by statisticians so their documentation is typically very detailed. 
 * Basic programming documentation can be found using R's [CRAN project website](https://cran.r-project.org/other-docs.html)
+
+
+
+### [Home](https://bdeck8317.github.io/compPsy.github.io/)
