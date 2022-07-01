@@ -12,7 +12,7 @@ Rstudio is an integrated development environment or IDE for short. There are man
 To get started please follow the link [here](https://cran.r-project.org/)
 
 *You should see this page
-<img src=" r_installpage.png" class="inline"/>
+<img src="r_installpage.png" class="inline"/>
 
 *Once you have navigated to this page, click “Download R for ….”
 ** Select whichever OS you are currently running.
@@ -29,7 +29,7 @@ Like the analogy mentioned before. We have created the airplane which will do al
 * To download R click [here](https://www.rstudio.com/products/rstudio/download/)
 
 *You should see the following page:
-<img src=" r_studioinstall.png" class="inline"/>
+<img src="r_studioinstall.png" class="inline"/>
 
 *Scroll down to the “Free installation” and click download.
 
@@ -49,7 +49,7 @@ For this course the only thing you need to install is called, “Anaconda”. An
 
 ## Installing Anaconda
 Go to the following [page](https://www.anaconda.com/)
-<img src=" conda_install.png" class="inline"/>
+<img src="conda_install.png" class="inline"/>
 
 * Like RStudio, anaconda’s webpage will automatically determine your OS. If it is incorrect below the download button is the graphical representation of the other possible OS installations.
 
