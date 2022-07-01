@@ -23,13 +23,15 @@ The command line is an interface that allows you to directly interact with your 
 
 Give the following a try in a terminal.
 ```
+(HINT!) when you see the hash or pound sign (#) this means the text to the right is a comment and does not get executed by the interpreter or the command line.
+
 cd Users/<name>/Desktop/ # this bit of code will take you to your desktop
 
 ls  # is a command that will allow you to list all the files in the current location (the desktop).
 
 scp  # using “scp” will allow you to make copies of files and put them wherever you want on your computer
 ```
-
+** If you want to learn more about commenting code in different languages see [here](https://geekflare.com/how-to-add-comments/)
 
 While your ability to use the command line will not be tested directly in this course, having an understanding and appreciation of what the command line can do / what Bash can do as a computer language will give you some more flexibility in your workflow in the future. 
 
