@@ -46,6 +46,9 @@ class NoneType(object)
 R is another language which has many resources. Many of the statistical functions were actually written by statisticians so their documentation is typically very detailed. 
 * Basic programming documentation can be found using R's [CRAN project website](https://cran.r-project.org/other-docs.html)
 
+## General coding information
+
+If you want to learn how to keep your code organized and clean [here](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?gclid=Cj0KCQjwtvqVBhCVARIsAFUxcRtqZlU9-iXTUqx6T5fCgT5Femcr7U68PRpb7_9xoHSfYhz36UP3VNUaAtGHEALw_wcB&hvadid=241663626217&hvdev=c&hvlocphy=9007325&hvnetw=g&hvqmt=e&hvrand=8659897969178891226&hvtargid=kwd-55663127008&hydadcr=16373_10302111&keywords=the+clean+code&qid=1656674574&sr=8-1) is a great book on clean coding and keeping your projects organized. (This book is not necessary to complete this course.)
 
 
 ### [Home](https://bdeck8317.github.io/compPsy.github.io/)
