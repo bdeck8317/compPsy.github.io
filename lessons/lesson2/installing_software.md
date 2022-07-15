@@ -83,7 +83,7 @@ If you are a Drexel University Student please use the following [link](https://d
 
 * The process of downloading Matlab is usually done without much of a hiccup, if you are having difficulty installing, please speak with your course administrator as they will be able to assist you with installation. 
 
-If you are not associated with a University or corporation that has a general license you we recommend you follow the guidance directly on Matlab/ Mathwork’s webpage which can be found [here](https://www.mathworks.com/products/matlab.html).
+If you are not associated with a University or corporation that has a general license you we recommend you follow the guidance directly on Matlab/ Mathwork’s webpage which can be found [here](https://www.mathworks.com/products/matlab.html){:target="_blank"}.
 
 
 
