@@ -56,7 +56,38 @@ Go to the following [page](https://www.anaconda.com/)
 
 ** Follow the directions on this [page](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/) for Windows OS and this [page](https://problemsolvingwithpython.com/01-Orientation/01.04-Installing-Anaconda-on-MacOS/) for Mac OS to ensure that python and anaconda have been properly installed on your computer
 
-And that’s it. You are now ready to start working with both python and R. Let the games begin!
+
+## Matlab
+
+Unlike python and R, Matlab is a self-contained language, meaning that everything you do in Matlab will likely be performed within it’s own dedicated IDE.
+
+Matlab is a proprietary software and is different from R and python, which are both open-source languages (meaning they are free and anyone can design packages for them). Because of the propriety nature of Matlab, in many cases, when troubleshooting Matlab, you may notice that the help page is an official Matlab help page.
+
+A common criticism of Matlab is that it is proprietary and thus has a gateway for programmers to use it. However, Matlab also has strengths.
+
+* The documentation for Matlab in some cases can be more efficient and concise than in other languages as it is expertly curated. 
+
+* Another strength is that Matlab is built around creating, modifying, and analyzing matrices, hence the name, Matlab –short for Matrix Laboratory. 
+
+## Installing Matlab
+
+As Matlab is proprietary, you need to contact your university and determine if they have a universal license, this is by far the cheapest and easiest way to access Matlab. 
+
+If you are a Drexel University Student please use the following [link](https://drexel.edu/it/computers-software/software/) and click on “https://software.drexel.edu/”. This will prompt you for your university username and password.
+
+* Once you have logged in you will be taken to a new page where you must select your affiliation with Drexel, i.e. Student or Faculty/Staff. 
+
+* Then you must select the software you would like to install, in this case, Matlab.
+
+* Please follow the instructions enclosed in the word document that is downloaded when you click on the Matlab install link.
+
+* The process of downloading Matlab is usually done without much of a hiccup, if you are having difficulty installing, please speak with your course administrator as they will be able to assist you with installation. 
+
+If you are not associated with a University or corporation that has a general license you we recommend you follow the guidance directly on Matlab/ Mathwork’s webpage which can be found [here](https://www.mathworks.com/products/matlab.html).
+
+
+
+And that’s it. You are now ready to start working with R, python, and Matlab. Let the games begin!
 
 ![Coding cat](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
