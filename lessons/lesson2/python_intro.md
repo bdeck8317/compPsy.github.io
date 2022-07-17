@@ -128,8 +128,5 @@ You may notice that you can put anything in this box and execute it. Python and 
 * Now press save or ctrl/command+s and you're done!
 
 
-That’s it, this lesson is over. You just created your first ever python script. Don’t worry if it wasn’t that exciting, it will become much more interesting as you start your own adventures. 
-
-Keep this in mind, you won’t break your computer, try things in your code, the worst that happens is that it throws an error and you have to debug it. That is the quickest way to learn. 
 
 [Happy coding!](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
