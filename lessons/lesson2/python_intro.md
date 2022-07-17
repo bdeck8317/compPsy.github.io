@@ -69,7 +69,7 @@ print(y)
 
 * Once you type the above into the first line (you can hit enter so not everything is on one line) you may notice that pressing enter doesn’t execute the code!
 
-[ ](https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif)
+[What!?](https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif)
 
 * No worries! — simply press “Shift” and “Enter” concurrently.
 
@@ -132,5 +132,4 @@ That’s it, this lesson is over. You just created your first ever python script
 
 Keep this in mind, you won’t break your computer, try things in your code, the worst that happens is that it throws an error and you have to debug it. That is the quickest way to learn. 
 
-Happy coding!
-[ ](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
+[Happy coding!](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
