@@ -1,6 +1,6 @@
-# Getting started: configuring your computer to run R/Rstudio, python/Jupyter Lab, and Matlab
+# Getting started: configuring your computer to run R, Python, and Matlab
 
-## R and Rstudio
+## R and RStudio
 Unlike many other types of software, you may have installed previously, R and Rstudio work together to bring you one coherent experience. 
 The way I like to think about this is that R is the airplane and Rstudio is the run-way / airport.
 
@@ -40,8 +40,9 @@ Like the analogy mentioned before. We have created the airplane which will do al
 
 ## Python and Jupyter Lab
 
-Similar to R and Rstudio, python is a basic computer language that actually has an amusing backstory 
-![Hint](https://media.giphy.com/media/HfJdu4HABDU3e/giphy.gif)
+Similar to R and Rstudio, python is a basic computer language that actually has an amusing backstory!
+
+[Hint](https://media.giphy.com/media/HfJdu4HABDU3e/giphy.gif)
 
 
 Because of the open-source ubiquity of python in data science and statistics, including industry and academia, using python has become much easier than installing multiple dependencies etc.
