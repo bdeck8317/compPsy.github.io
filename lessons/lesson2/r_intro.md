@@ -86,4 +86,4 @@ That’s it, this lesson is over. You just created your first-ever script. Don�
 
 Keep this in mind, you won’t break your computer, try things in your code, the worst that happens is that it throws an error, and you have to debug it. That is the quickest way to learn. 
 
-[Happy coding!](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+![Happy coding!](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
