@@ -130,3 +130,6 @@ You may notice that you can put anything in this box and execute it. Python and 
 
 
 ![Happy coding!](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
+
+
+### [Home](https://bdeck8317.github.io/compPsy.github.io/)
