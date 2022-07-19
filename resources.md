@@ -46,6 +46,18 @@ class NoneType(object)
 R is another language which has many resources. Many of the statistical functions were actually written by statisticians so their documentation is typically very detailed. 
 * Basic programming documentation can be found using R's [CRAN project website](https://cran.r-project.org/other-docs.html)
 
+* Like python, R also has a similar help function which will allow you to see documentation for a function right in the RStudio GUI.
+
+Try the following in your RStudio terminal.
+```
+help(lm)
+
+# or 
+
+?lm
+```
+
+
 ## General coding information
 
 If you want to learn how to keep your code organized and clean [here](http://cleancoder.com/products) is a great source on clean coding and keeping your projects organized. 
