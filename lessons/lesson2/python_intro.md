@@ -69,7 +69,7 @@ print(y)
 
 * Once you type the above into the first line (you can hit enter so not everything is on one line) you may notice that pressing enter doesn’t execute the code!
 
-[What!?](https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif)
+![What!?](https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif)
 
 * No worries! — simply press “Shift” and “Enter” concurrently.
 
@@ -129,4 +129,7 @@ You may notice that you can put anything in this box and execute it. Python and 
 
 
 
-[Happy coding!](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
+![Happy coding!](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
+
+
+### [Home](https://bdeck8317.github.io/compPsy.github.io/)
