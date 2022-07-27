@@ -71,5 +71,9 @@ As you move into more advanced programming and want to start to understand what 
 
 * What about RAM and Storage? Check [this](https://www.redhat.com/sysadmin/memory-and-storage) article out.
 
+## Git and GitHub
+
+* Main [Git](https://git-scm.com/) websight for quick documentation
+* Free Book on [Git](https://git-scm.com/book/en/v2)
 
 ### [Home](https://bdeck8317.github.io/compPsy.github.io/)
