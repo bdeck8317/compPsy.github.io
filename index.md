@@ -1,4 +1,4 @@
-# Welcome to Computational Methods in Psychology
+# Welcome to Data Science in Psychology
 
 All of the course content neccessary to complete this course can be found here or within your university's blackboard site.
 
