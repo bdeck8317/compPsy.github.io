@@ -1,6 +1,6 @@
 ## Data sets for this course:
 
 
-* [IQ data](/path/to/file.csv)
+* [IQ data](/example_data/iq_data.csv)
 
-* [BMI data](/path/to/file.csv)
+* [BMI data](/example_data/bmi_data.csv)
