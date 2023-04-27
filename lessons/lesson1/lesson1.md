@@ -4,7 +4,8 @@
 
 To get started with this course, please watch the short introductory video
 
-<iframe width="600" height="500" src="https://www.youtube.com/watch?v=kF4zAjMfYPw&t=968s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kF4zAjMfYPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 In this lesson you will learn about the motivation for this course. 
 
