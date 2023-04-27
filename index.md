@@ -15,4 +15,6 @@ All your course lessons and assignments can be found on the [Table of Contents](
 ### Check out course resources for helpful guides
 [Resources](resources.md)
 
+### Example data used in this class
+[Data](data.md)
 
