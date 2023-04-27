@@ -11,6 +11,8 @@ In this lesson you will learn about the motivation for this course.
 
 
 This course is a high-level introduction to data science for psychology graduate students. It is designed for students without previous programming experience to develop basic literacy and comfort with data science. The course will cover rudimentary programming skills in three languages that are commonly used in graduate-level academic research in psychology and neuroscience (R, Python, and MATLAB). It is intended to fill the gap between statistics and data science for students who want to learn basic programming skills for their research but don’t know where to start. By gaining a foundational understanding of key programming concepts and practicing with basic syntax and skills in multiple (similar) programming languages, students will feel prepared to take graduate-level data science and statistics courses in which basic programming skills are assumed.
+
+
 A key tenet of this course is “learning how to learn”. Students will not learn everything they need to know about programming or data science in this course but will become more comfortable with programming environments and vernacular. As a result, they will be empowered to develop skills on their own going forward. This course is designed to be completed online asynchronously with the guidance of a teaching assistant (an upper-level Applied Cognitive and Brain Sciences student). 
 The specific learning outcomes of this course are:
 
