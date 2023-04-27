@@ -1,6 +1,6 @@
 theme: jekyll-theme-time-machine
 
-# title: [Computational Methods]
-description: [An open-source course to introduce methods in data science for graduate students in Psychology]
+title: []
+description: [Introduction to data science for graduate students in Psychology]
 
 show_downloads: true
