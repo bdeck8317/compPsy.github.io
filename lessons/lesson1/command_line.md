@@ -1,6 +1,6 @@
 # What is the command line?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h4nQ6uoegOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 The command line is an interface that allows you to directly interact with your computer without regard to the graphical user interface or GUI. The GUI is what you see as soon as you open your computer such as the image of your desktop. See below for example
 
