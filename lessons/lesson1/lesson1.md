@@ -20,6 +20,9 @@ This course is a high-level introduction to data science for psychology graduate
 In this lesson we will also get accustomed with multiple languages and environments. Likely this will be the most overwhelming part of the course as you go from knowing little about programming to information overload. Don't fret, there are plenty of resources online and built within this course to keep you on track. 
 
 ### Your computer's command line
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h4nQ6uoegOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 The first order of business is to establish an understanding of a computers command line and what it is used for. 
 * [Start here with the command line tutorial](command_line.md)
 
