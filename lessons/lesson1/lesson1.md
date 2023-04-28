@@ -27,7 +27,7 @@ The first order of business is to establish an understanding of a computers comm
 * [Start here with the command line tutorial](command_line.md)
 
 
-While we won't use BASH and the command line to much throughout this course, having at least a superficial understanding of the command line will prove to be useful to you in your future programming endeavors. 
+While we won't use BASH and the command line much throughout this course, having at least a superficial understanding of the command line will prove useful to you in your future programming endeavors. 
 
 ### Software installation and environment configuration
 Installing the software for the remainder of the course should not be challenging. We provide guides to installing R/ R-Studio, Python/ Jupyter Lab, and Matlab
