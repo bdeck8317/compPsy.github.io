@@ -36,7 +36,7 @@ Why might you want to do this?
 
 ## Let's create our first script in R
 For this script, you should enter the following into the Console.
-```
+```R
 # Here we are assigning variables, you can use either method, but the accepted method in R is to use y <- 13 —a shortcut for this symbol can be used by concurrently pressing the “alt” and “-” symbols (no quotes needed).
 
 x = 10
@@ -63,7 +63,7 @@ You can also assign text to variables (these are called strings). You will learn
 In the following code block, I would like you to type this into your “Script/ Code Editor”
 * This is where you can save your code for the next time you want to run it.
 
-```
+```R
 my_text <- 'hello, world!'
 
 for (ii in 1:3){
