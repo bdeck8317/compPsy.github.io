@@ -33,8 +33,7 @@ class NoneType(object)
  |  Static methods defined here:
  |
  |  __new__(*args, **kwargs) from builtins.type
- |      Create and return a new object.  See help(type) for accurate signature.
- 
+       Create and return a new object.  See help(type) for accurate signature.
  ```
 
 
