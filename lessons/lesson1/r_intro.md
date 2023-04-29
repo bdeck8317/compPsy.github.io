@@ -54,6 +54,8 @@ y <- 20
 print(x)
 print(y)
 ```
+
+
 Take a look at the output of our print statements. You should notice that x and y are now assigned to the values. This concept is the same as you would see in a mathematical formula. However, in this case, you are actually storing the value and the bytes of information that value consumes into your computer’s memory.
 
 When you print a variable to the console, the computer has to look for the value corresponding to the variable in its saved memory.
@@ -74,6 +76,8 @@ for (ii in 1:3){
 
 # Briefly, we assign 'hello, world!' to my_text variable. Then we use what is called an iterator and a for loop to loop over a range of iterators 1:3 i.e. you can read this as "1 to 3" and then it simply prints my_text the number of times the loop iterates. In this case, it will print the contents of my_text 3 times. 
 ```
+
+
 
 To run code in an R script, you can either highlight it and press “Control” and “Enter” concurrently or you can run the entire script with the “Source” Button located in the top right of the code editor.
 
