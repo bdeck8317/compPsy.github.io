@@ -49,7 +49,7 @@ R is another language which has many resources. Many of the statistical function
 * Like python, R also has a similar help function which will allow you to see documentation for a function right in the RStudio GUI.
 
 Try the following in your RStudio terminal.
-```
+```R
 help(lm)
 
 # or 
