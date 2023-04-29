@@ -22,11 +22,12 @@ In this lesson we will also get accustomed with multiple languages and environme
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h4nQ6uoegOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The first order of business is to establish an understanding of a computers command line and what it is used for. 
+If you would like more information on using the command line see the tutorial below. 
 * [Start here with the command line tutorial](command_line.md)
 
 
 While we won't use BASH and the command line much throughout this course, having at least a superficial understanding of the command line will prove useful to you in your future programming endeavors. 
+
 
 ### Software installation and environment configuration
 Installing the software for the remainder of the course should not be challenging. We provide guides to installing R/ R-Studio, Python/ Jupyter Lab, and Matlab
