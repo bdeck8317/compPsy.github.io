@@ -1,5 +1,4 @@
 ## Lesson 1
-<img src="nodes_edges.png" alt="Background image">
 ### Welcome to lesson 1: An introduction to data science in Psychology. 
 
 To get started with this course, please watch the short introductory video
