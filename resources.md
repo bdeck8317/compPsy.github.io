@@ -15,7 +15,8 @@ For Python programming there are a number of great resources.
 * This one may seem obvious, but [python's documentation](https://docs.python.org/3/) is very well written. You can access this also by wrapping some of your commands in a help function
  e.g.
  
-```In [1]: help(print())
+```python
+In [1]: help(print())
 
 Help on NoneType object:
 
