@@ -8,10 +8,4 @@ show_downloads: true
 
 theme: jekyll-theme-cayman
 
-# Navigation links
-navbar-links:
-  Home: /index.md
-  Lessons: /toc.md
-  Resources: /resources.md
-  Contact: /contact_info.md
 
