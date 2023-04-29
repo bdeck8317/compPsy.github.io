@@ -18,3 +18,7 @@ The specific learning outcomes of this course are:
   * Employ version control to maintain data projects
 * Data Cleaning
   * Develop an understanding of and learn basic techniques for data cleaning and preprocessing
+
+
+
+### [Home](https://bdeck8317.github.io/compPsy.github.io/)
