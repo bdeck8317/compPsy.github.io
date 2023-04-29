@@ -10,9 +10,9 @@ While this course is not meant to be an all encompassing tour de force of progra
 
 ## Python
 For Python programming there are a number of great resources. 
-* Youtube, specifically [Corey Schafer's videos](https://www.youtube.com/c/Coreyms/featured) ---Mostare beyond the scope of this class. However, as you get more advanced and more interested in programming they will be helpful.
+* Youtube, specifically [Corey Schafer's videos](https://www.youtube.com/c/Coreyms/featured) ---Some are beyond the scope of this class. However, they will be helpful if you continue on your coding journey.
 
-* This one may seem obvious, but [python's documentation](https://docs.python.org/3/). You can access this also by wrapping some of your commands in a help function
+* This one may seem obvious, but [python's documentation](https://docs.python.org/3/) is very well written. You can access this also by wrapping some of your commands in a help function
  e.g.
  
 ``` 
