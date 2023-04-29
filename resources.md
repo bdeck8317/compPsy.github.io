@@ -54,7 +54,9 @@ help(lm)
 
 # or 
 
-?lm```
+?lm
+```
+
 
 * Data Science in R using the [Tidyverse environment](https://r4ds.had.co.nz/)
 * [ggplot2 book](https://ggplot2-book.org/)
