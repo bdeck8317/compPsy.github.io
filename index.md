@@ -7,7 +7,7 @@ All of the course content neccessary to complete this course can be found here o
 
 The goal of this course is to help incoming graduate students in psychology departments become acclimated to computer programming. 
 
-Please take a look at the course {objectives}(course_objectives.md)
+Please take a look at the course [objectives](course_objectives.md)
 
 
 
