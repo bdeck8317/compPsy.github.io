@@ -1,6 +1,5 @@
 ## Course Objectives
 
-A key tenet of this course is “learning how to learn”. Students will not learn everything they need to know about programming or data science in this course but will become more comfortable with programming environments and vernacular. As a result, they will be empowered to develop skills on their own going forward. This course is designed to be completed online asynchronously with the guidance of a teaching assistant (an upper-level Applied Cognitive and Brain Sciences student). 
 The specific learning outcomes of this course are:
 
 * Basic Literacy
