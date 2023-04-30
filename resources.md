@@ -1,8 +1,8 @@
-# Resources for course and extra tips and tricks
+# Resources
 
 
 
-# Books
+## Books
 
 Below are a list of books that can help you on your journey to understanding programming and data science more broadly.
 
