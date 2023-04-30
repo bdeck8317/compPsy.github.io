@@ -35,11 +35,12 @@ class NoneType(object)
  |  __repr__(self, /)
  |      Return repr(self).
  |
- |  ----------------------------------------------------------------------
+ |  ----------------------------------------------------
  |  Static methods defined here:
  |
  |  __new__(*args, **kwargs) from builtins.type
-       Create and return a new object.  See help(type) for accurate signature.
+       Create and return a new object. 
+       See help(type) for accurate signature.
 ```
 
 
@@ -67,7 +68,7 @@ If you want to learn how to keep your code organized and clean [here](http://cle
 ## Computer Hardware articles and information
 As you move into more advanced programming and want to start to understand what the computer is actually doing from a pragmattic standpoint, we recommend that you take a look at the following articles which. Each article outlines some of the major hardware that will be doing the heavy lifting when programming and running your analyses. It's important to have at least a high-level understanding how these components interact to produce results for your programs you write.
 
-* First, it's good to know a little bit of the history, if nothing else because it's just simply interesting. Check out the article [here.](https://www.redhat.com/sysadmin/computer-history-sysadmins)
+* First, it's good to know a little bit of the history. Check out [here.](https://www.redhat.com/sysadmin/computer-history-sysadmins) this article.
 
 * Want to learn more about your computer's processor, look no [further](https://www.redhat.com/sysadmin/cpu-components-functionality)
 
