@@ -37,7 +37,7 @@ Installing the software for the remainder of the course should not be challengin
 
 * [R and R-Studio introduction](r_intro.md)
 
-* [Python and Jupyter Lab introduction](python_intro.md)
+* [Python and Spyder introduction](python_intro.md)
 
 * [Matlab introduction](matlab_intro.md)
 
