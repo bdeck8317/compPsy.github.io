@@ -77,5 +77,6 @@ As you move into more advanced programming and want to start to understand what 
 ## Git and GitHub
 
 * Main [Git](https://git-scm.com/){:target="_blank"} websight for quick documentation
+* [Github](https://github.com/){:target="_blank"}
 
 <!-- ### [Home](https://bdeck8317.github.io/compPsy.github.io/) -->
