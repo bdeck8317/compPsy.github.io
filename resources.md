@@ -1,11 +1,17 @@
 # Resources for course and extra tips and tricks
 
-While this course is not meant to be an all encompassing tour de force of programming knowledge, we do recommend that you continue to program outside of this course. We hope that this course does at least two things. 
 
 
-1. Relinquishes any fears you may have regarding getting started programming. It's going to be a little tricky, but that's okay. The payoff is that you are learning a skill that will undoubtly make your life easier when dealing with data and can help you to automate many things you would have spent hours doing previously.
+# Books
 
-2. Teaches you how to search for answers. You aren't always going to have the answers, that's totally fine and you should expect this. In many cases, it's not knowing the answer, but instead, it's knowing you can find it with ease. This tends to take a bit of time before you are actually good at it (that may sound weird).
+Below are a list of books that can help you on your journey to understanding programming and data science more broadly.
+
+* [Data Science From Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
+* [Efficient R Programming](https://csgillespie.github.io/efficientR/)
+* [Git](https://git-scm.com/book/en/v2)
+* [An Introduction to Statistical Learning](https://www.statlearning.com)
+
+
 
 
 ## Python
@@ -44,6 +50,7 @@ class NoneType(object)
 
 ## R
 R is another language which has many resources. Many of the statistical functions were actually written by statisticians so their documentation is typically very detailed. 
+
 * Basic programming documentation can be found using R's [CRAN project website](https://cran.r-project.org/other-docs.html)
 
 * Like python, R also has a similar help function which will allow you to see documentation for a function right in the RStudio GUI.
@@ -57,9 +64,6 @@ help(lm)
 ?lm
 ```
 
-
-* Data Science in R using the [Tidyverse environment](https://r4ds.had.co.nz/)
-* [ggplot2 book](https://ggplot2-book.org/)
 
 ## General coding information
 
@@ -77,6 +81,5 @@ As you move into more advanced programming and want to start to understand what 
 ## Git and GitHub
 
 * Main [Git](https://git-scm.com/) websight for quick documentation
-* Free Book on [Git](https://git-scm.com/book/en/v2)
 
 ### [Home](https://bdeck8317.github.io/compPsy.github.io/)
