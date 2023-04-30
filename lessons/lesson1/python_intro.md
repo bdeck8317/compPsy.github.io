@@ -1,22 +1,18 @@
 # Introduction to Python and Jupyter Lab
 
 ## Lesson Objectives
-* Get familiar with Python and Jupyterlab including the Markdown info
+* Get familiar with Python and Spyder including the Markdown info
 * What is a variable?
 * Creating your first script and “Hello, World!”
 
-## Opening Jupyter Lab
+## Opening Spyder
 
-Unfortunately opening jupyter lab is a little more complicated than Rstudio. Don’t fret it’s still not too bad.
+Opening Spyder 
 
-* On Mac and Linux operating systems you can simply open “Terminal” and type ```jupyter lab```
-
-* On Windows you will need to open “Anaconda Terminal”
-
-* You may need to change your directory to your home directory. You can do so with the following commands:
 ```
 cd \Users\<yourusername>\
 ```
+
 * After this opens, you need to type ```jupyter lab```
 * After you press enter, your web browser should automatically open.
 
