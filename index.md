@@ -6,15 +6,15 @@ Please take a look at the course [objectives](course_objectives.md) page.
 
 
 
-### Lessons and Tutorials
+## Lessons and Tutorials
 
 All your course lessons and assignments can be found on the [Lessons](toc.md) page. Or by using the navigation bar at the top of the page under lessons.
 
 
-### Resources
+## Resources
 Check out some of the curated [resources](resources.md) and guides.
 
-### Example data 
+## Example Data 
 
 Data that are used in this class for assignments can be found [here](data.md)
 
