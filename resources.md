@@ -43,11 +43,6 @@ class NoneType(object)
 ```
 
 
-
-* Finally if you're interested in statistical methods/ data science in python, this book is often widely used in courses [Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
-
-
-
 ## R
 R is another language which has many resources. Many of the statistical functions were actually written by statisticians so their documentation is typically very detailed. 
 
@@ -82,4 +77,4 @@ As you move into more advanced programming and want to start to understand what 
 
 * Main [Git](https://git-scm.com/) websight for quick documentation
 
-### [Home](https://bdeck8317.github.io/compPsy.github.io/)
+<!-- ### [Home](https://bdeck8317.github.io/compPsy.github.io/) -->
