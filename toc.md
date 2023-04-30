@@ -5,7 +5,7 @@
 
 * Lesson 2. [The Ground Floor: Setting up your environments](lessons/lesson2//lesson2.md)
 
-* Lesson 3. [Programming Basics in R](lessons/lesson3/lesson3.md)
+<!-- * Lesson 3. [Programming Basics in R](lessons/lesson3/lesson3.md)
 
 * Lesson 4. [Programming basics in Python](lessons/lesson4/lesson4.md)
 
@@ -20,4 +20,4 @@
 * Lesson 9. [Advanced Topics and Computations](lessons/lesson9/lesson9.md)
 
 
-### [Home](https://bdeck8317.github.io/compPsy.github.io/)
+### [Home](https://bdeck8317.github.io/compPsy.github.io/) -->
