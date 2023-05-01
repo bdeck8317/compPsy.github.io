@@ -38,7 +38,7 @@ Like the analogy mentioned before. We have created the airplane which will do al
 * After Rstudio has finished downloading, you’re ready to get going with R and Rstudio. 
 
 
-## Python and Jupyter Lab
+## Python and  Spyder
 
 Similar to R and Rstudio, python is a basic computer language that actually has an amusing backstory!
 
@@ -56,6 +56,15 @@ Go to the following [page](https://www.anaconda.com/)
 * Like RStudio, anaconda’s webpage will automatically determine your OS. If it is incorrect below the download button is the graphical representation of the other possible OS installations.
 
 ** Follow the directions on this [page](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/) for Windows OS and this [page](https://problemsolvingwithpython.com/01-Orientation/01.04-Installing-Anaconda-on-MacOS/) for Mac OS to ensure that python and anaconda have been properly installed on your computer
+
+To install Spyder, open the anaconda navigator you just installed. 
+
+It should look something like this:
+
+<img src="anaconda_navigator.png" class="inline"/>
+
+Once inside the Anaconda GUI, click on "Install" under "Spyder." This process will install Spyder into the Anaconda distribution. Once installed, ensure that the installation worked by clicking, "Launch" under Spyder. 
+
 
 
 ## Matlab
