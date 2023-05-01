@@ -38,8 +38,9 @@ Let's save this in the same folder as your R project that you previously created
 ## Creating your first python script
 * For this script, you should enter the following into the first line.
 
-```
-# Here we are assigning variables, unlike R, python uses only the = as variable assignment key. 
+```python
+# Here we are assigning variables, unlike R, 
+# python uses only the = as variable assignment key. 
 
 x = 10
 y = 13
@@ -58,9 +59,12 @@ Like R, when you then print that variable to the console, the computer has to lo
 You can also assign text to variables (these are called strings). You will learn much more about strings and how R interacts with them in the next few lessons.
 
 You can also re-assign variables just like in R
-```
-# The print command allows you to print the values of x and y to the user (in this case, you).
-# You can also assign new values to old variables (typically not recommended as this can get confusing quickly).
+
+```python
+# The print command allows you to print the values of x 
+# and y to the user (in this case, you).
+# You can also assign new values to old variables 
+# (typically not recommended as this can get confusing quickly).
 
 x = 17
 y = 20
@@ -70,15 +74,20 @@ print(y)
 ```
 Lets make a loop and print some text a few times!
 
-```
+```python
 my_text = 'hello, world!'
 
 for ii in range(3):
     print(my_text)
 
-# In this little script there are actually a number of things happening. We will talk more about each of these steps when we talk about information flow. But it's good to see this kind of code early and often.
+# In this little script there are actually a number of things happening. 
+# We will talk more about each of these steps when we talk about information flow. 
+# But it's good to see this kind of code early and often.
 
-# Briefly, we assign 'hello, world!' to my_text variable. Then we use what is called an iterator and a for loop to loop over a range of iterators 3 i.e. you can read this as "1 to 3" and then it simply prints my_text the number of times the loop iterates. In this case, it will print the contents of my_text 3 times. 
+# Briefly, we assign 'hello, world!' to my_text variable. 
+# Then we use what is called an iterator and a for loop to loop over a range of iterators 3 i.e.
+# you can read this as "1 to 3" and then it simply prints my_text the number of times the loop iterates. 
+# In this case, it will print the contents of my_text 3 times. 
 ```
 
 * Now press save or ctrl/command+s and you're done!
