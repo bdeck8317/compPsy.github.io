@@ -37,7 +37,10 @@ Why might you want to do this?
 ## Let's create our first script in R
 For this script, you should enter the following into the Console.
 ```R
-# Here we are assigning variables, you can use either method, but the accepted method in R is to use y <- 13 —a shortcut for this symbol can be used by concurrently pressing the “alt” and “-” symbols (no quotes needed).
+# Here we are assigning variables, you can use either method, 
+# but the accepted method in R is to use y <- 13 —a shortcut for 
+# this symbol can be used by concurrently pressing the
+# “alt” and “-” symbols (no quotes needed).
 
 x = 10
 y <- 13
@@ -45,8 +48,10 @@ y <- 13
 print(x)
 print(y)
 
-# The print command allows you to print the values of x and y to the user (in this case, you).
-You can also assign new values to old variables (typically not recommended as this can get confusing quickly).
+# The print command allows you to print the values of x 
+# and y to the user (in this case, you).
+# You can also assign new values to old variables 
+# (typically not recommended as this can get confusing quickly).
 
 x <- 17
 y <- 20
@@ -72,9 +77,18 @@ for (ii in 1:3){
   print(my_text)
 }
 
-# In this little script there are actually a number of things happening. We will talk more about each of these steps when we talk about information flow. But it's good to see this kind of code early and often.
+# In this little script there are actually a number of 
+# things happening. 
+# We will talk more about each of these 
+# steps when we talk about information flow. 
+# But it's good to see this kind of code early and often.
 
-# Briefly, we assign 'hello, world!' to my_text variable. Then we use what is called an iterator and a for loop to loop over a range of iterators 1:3 i.e. you can read this as "1 to 3" and then it simply prints my_text the number of times the loop iterates. In this case, it will print the contents of my_text 3 times. 
+# Briefly, we assign 'hello, world!' to my_text variable. 
+# Then we use what is called an iterator and a for loop 
+# to loop over a range of iterators 1:3 i.e. 
+# you can read this as "1 to 3" and then it simply prints 
+# my_text the number of times the loop iterates. 
+# In this case, it will print the contents of my_text 3 times. 
 ```
 
 
