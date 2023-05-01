@@ -81,12 +81,15 @@ for ii in range(3):
     print(my_text)
 
 # In this little script there are actually a number of things happening. 
-# We will talk more about each of these steps when we talk about information flow. 
+# We will talk more about each of these steps when we talk about 
+# information flow. 
 # But it's good to see this kind of code early and often.
 
 # Briefly, we assign 'hello, world!' to my_text variable. 
-# Then we use what is called an iterator and a for loop to loop over a range of iterators 3 i.e.
-# you can read this as "1 to 3" and then it simply prints my_text the number of times the loop iterates. 
+# Then we use what is called an iterator and a for loop
+# to loop over a range of iterators 3 i.e.
+# you can read this as "1 to 3" and then it simply prints 
+# my_text the number of times the loop iterates. 
 # In this case, it will print the contents of my_text 3 times. 
 ```
 
