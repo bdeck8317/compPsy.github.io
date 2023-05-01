@@ -7,32 +7,23 @@
 
 ## Opening Spyder
 
-Opening Spyder 
+In order to open Spyder, first load Anaconda navigator and click "Launch" under Spyder
 
-```
-cd \Users\<yourusername>\
-```
 
-* After this opens, you need to type ```jupyter lab```
-* After you press enter, your web browser should automatically open.
 
 ## Getting to know Jupyter Lab and Python
 
-Your web browser should have automatically opened, upon pressing enter on the last step. 
+Once Spyder opens you should see an image like the one provided below:
 
-Jupyter lab is run through your web browser on what is called a local host. This means only you can see this page and it is a one way communication to your computer. Don’t worry, you aren’t making a website for the world to see.
 
-Jupyter lab should open and look like this.
+<img src="spyder_interface.png" class="inline"/>
 
-<img src="jupyterlab_open.png" class="inline"/>
 
-* Now select “Python 3 (pykernel) under the “Notebook” header. This will create a python kernel, a way your computer interacts with python through the web browser. Don’t worry about the specifics of how this works. If you want to learn more, see [here](https://docs.jupyter.org/en/latest/projects/architecture/content-architecture.html).
-* This will open a new jupyter notebook. This is an interactive console similar to an R markdown notebook (you will learn more about these notebooks as the course progresses and you become more comfortable interacting with them).
-* This type of interactive way of coding in python allows you to quickly get feedback about your code, similar to the terminal on your computer. However, your computer terminal doesn’t necessarily allow you to create graphs, etc.
+## Getting to know the Spyder interface
 
-## Getting to know your Jupyter Lab interface
-<img src="labeled_jupyter.png" class="inline"/>
-Your screen should look something like the one above
+<img src="spyder_labeled.png" class="inline"/>
+
+
 
 * File navigator: This is where you can navigate to folders and open files.
 
