@@ -19,7 +19,8 @@ and
 
 As a follow-up to these videos and to test your knowledge, see the quiz below:
 
-[Quiz 2](lessons/lesson2/quiz1.docx)
+[Quiz 2](lessons/lesson2/Quiz 2.docx)
+[Quiz 2](lessons/lesson2/Quiz 2_key.docx)
 
 
 
