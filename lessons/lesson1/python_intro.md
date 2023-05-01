@@ -25,21 +25,15 @@ Once Spyder opens you should see an image like the one provided below:
 
 
 
-* File navigator: This is where you can navigate to folders and open files.
+* Documentation and help: This is where you can navigate to function documentation, explor variables from your scripts, navigate to different files on your computer or examine plots you have created..
 
-* Script editor/ terminal: Much like R and Rstudio, Jupyter notebooks and python work similarly in that you can edit and execute code all within the same environment. In this case, python and Jupyter notebooks allow you to immediately run and see the output (or another name for this is “standard out”) after executing the code.
+* Script editor/ terminal: Much like R and Rstudio, Spyder and Python work similarly in that you can edit and execute code all within the same environment.
 
-* You may notice that my jupyter nodebook/ lab is dark. You can easily change this with the following process: Settings → Jupyter Lab Themes. You can also select your text editor themes as well by selecting: Settings → Text Editor Theme—This changes the colors of your text. 
+* Interactive Python console: Here you can test your commands and statements interactively to examine their functionality.
 
-* You will get more familiar with the GUI of Jupyter Notebooks and Jupyter Lab throughout this course, but that should be enough to get you started.
+## Let’s save a script in the same folder as your project from R and Rstudio
 
-## Let’s save your notebook in the same folder as your project from R and Rstudio
-
-* You can close the current notebook and, on the left-hand pane (your file navigator), navigate to the folder that is above your R and Rstudio project for this course
-
-* Then open a new notebook. Your navigator should look like this:
-<img src="file_nav_jupyter.png" class="inline"/>
-* You can then change the name of this "Untitled.ipynb" (the extension .ipynb stands for interactive python notebook). Simply right-click and select “Rename”. Then type ```hello_world```
+Let's save this in the same folder as your R project that you previously created. Call the file ```hello_world.py```
 
 ## Creating your first python script
 * For this script, you should enter the following into the first line.
@@ -54,11 +48,8 @@ print(x)
 print(y)
 ```
 
-* Once you type the above into the first line (you can hit enter so not everything is on one line) you may notice that pressing enter doesn’t execute the code!
+Now click the "Run File" button on the top panel or press F5 on your keyboard to execute the current script.
 
-![What!?](https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif)
-
-* No worries! — simply press “Shift” and “Enter” concurrently.
 
 * This will execute your code and print the values of x and y
 
@@ -89,28 +80,6 @@ for ii in range(3):
 
 # Briefly, we assign 'hello, world!' to my_text variable. Then we use what is called an iterator and a for loop to loop over a range of iterators 3 i.e. you can read this as "1 to 3" and then it simply prints my_text the number of times the loop iterates. In this case, it will print the contents of my_text 3 times. 
 ```
-
-## Why Markdown?
-One of the fun and powerful things about using a Markdown document is that you can print regular text as well.
-
-You can add markdown text which is a way to describe what the output of your code is to others.
-
-Below your code do the following: At the top of the page you will see the following buttons: 
-<img src="markdown_opts.png" class="inline"/>
-
-* Select the “Code” dropdown. 
-* Then select “Markdown”
-
-* Your line editor will look like this:
-<img src="markdown_change.png" class="inline"/>
-
-* Now type the following: “My for loop which iterates and prints hello, world 3 times!”---then execute the code.
-
-* The output should look like this 
-<img src="markdown_text.png" class="inline"/>
-
-You may notice that you can put anything in this box and execute it. Python and the jupyter notebook assume this is just text and not code to execute. So it just saves that text within the notebook and moves to the next line of executable code. You can tell that it’s executable by the [ ]: which will be filled by the code line number upon the next execution.
-
 
 * Now press save or ctrl/command+s and you're done!
 
