@@ -38,13 +38,16 @@ In the upper left-hand corner of your Matlab window you will see, “New Script�
 
 * Go ahead and create some variables.
 
-```
-% Here we are assigning variable, similar to python, Matlab uses only the = as variable assignment key. 
+```Matlab
+% Here we are assigning variable, similar to python, 
+% Matlab uses only the = as variable assignment key. 
 
 x = 10
 y = 13
 
-disp(x) % Unlike R and python, Matlab uses a slightly different function to display the output of a variable, in this case the function is called “disp”.  
+disp(x) 
+% Unlike R and python, Matlab uses a slightly different 
+% function to display the output of a variable, in this case the function is called “disp”.  
 disp(y)
 
 ```
@@ -64,9 +67,23 @@ for ii = 1:5
     disp(x)
 end
 
-% You will notice slight differences in syntax between R, python, and Matlab. Don’t be startled by this. Most of the syntax differences are simple to solve if you get hung up on them. However, the general premise of coding is reinforced by learning multiple languages. By doing so, you will learn that programming is mostly the same regardless the language you are using.
+% You will notice slight differences in syntax between R, python, and Matlab.
+% Don’t be startled by this. 
+% Most of the syntax differences are simple to solve if you get hung up on them. 
+% However, the general premise of coding is reinforced 
+% by learning multiple languages. 
+% By doing so, you will learn that programming is mostly 
+% the same regardless the language you are using.
 
-% In this bit of code you will notice that we initiate our x-variable as a string and then open our for-loop, just like in R and python. In this case, we initiate ii as the iterator and then have it iterate starting at 1 and then continuing on to 5 loops. Therefore, the output should display the x variable’s values 5 times to the terminal. If you save and run this script, you will notice that this is indeed what this code will do.
+% In this bit of code you will notice that we initiate 
+% our x-variable as a string and then open our for-loop, 
+% just like in R and python. In this case, we initiate 
+% ii as the iterator and then have it iterate starting
+% at 1 and then continuing on to 5 loops. 
+% Therefore, the output should display the x variable’s 
+% values 5 times to the terminal. If you save and run 
+% this script, you will notice that this is 
+% indeed what this code will do.
 
 ```
 Now save your code and you will be able to return to this bit of code when you want to in the future.
