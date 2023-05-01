@@ -1,4 +1,4 @@
-## Lesson 1
+# Lesson 1
 ### Welcome to lesson 1: An introduction to data science in Psychology. 
 
 To get started with this course, please watch the short introductory video
