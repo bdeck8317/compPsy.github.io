@@ -11,7 +11,7 @@ After watching the embedded video you can also check out helpful tutorials on da
 
 and 
 
-Python: [Types](https://www.programiz.com/python-programming/variables-datatypes) and [Structures](https://www.geeksforgeeks.org/python-data-structures/)
+* Python: [Types](https://www.programiz.com/python-programming/variables-datatypes) and [Structures](https://www.geeksforgeeks.org/python-data-structures/)
 
 
 
