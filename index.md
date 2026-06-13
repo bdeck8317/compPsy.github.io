@@ -8,7 +8,7 @@ Please take a look at the course [objectives](course_objectives.md){:target="_bl
 
 ## Lessons and Tutorials
 
-All your course lessons and assignments can be found on the [lessons](toc.md){:target="_blank"} page. Or by using the navigation bar at the top of the page.
+The course lessons and assignments can be found on the [lessons](toc.md){:target="_blank"} page. Or by using the navigation bar at the top of the page.
 
 
 ## Resources
